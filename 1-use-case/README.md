@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Ce dépôt contient un ensemble d'exercices d'entraînement à la ccréation de diagrammes de cas d'utilisation.
+Ce dépôt contient un ensemble d'exercices d'entraînement à la création de diagrammes de cas d'utilisation.
 
 Chaque exercice peut être considéré comme un cahier des charges minimaliste à analyser.
 
@@ -100,7 +100,7 @@ Par exemple un programme nommé "Mont-de-Marsan en 2 jours" avec un ensemble d'a
   - ... 
 ```
 
-Un voyageur peut déccider de baser sa plannification sur un programme pré-établi et le modifier à sa guise.
+Un voyageur peut décider de baser sa plannification sur un programme pré-établi et le modifier à sa guise.
 
 ### Proposition d'activité par un guide
 

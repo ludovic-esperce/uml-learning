@@ -1,6 +1,6 @@
 # Diagrammes UML
 
-Ce dépôt contient un ensemble d'exercices d'entraînement à la ccréation de diagrammes UML.
+Ce dépôt contient un ensemble d'exercices d'entraînement à la création de diagrammes UML.
 
 Il couvre les diagrammes UML suivants :
 - diagrammes statiques :

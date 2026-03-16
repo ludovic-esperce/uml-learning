@@ -1,4 +1,4 @@
-# Initiation à la conception de cas d'utilisation
+# Initiation à la conception de diagrammes de cas d'utilisation
 
 ## Introduction
 

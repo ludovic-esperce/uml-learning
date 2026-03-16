@@ -13,7 +13,7 @@ Pour chaque cahier des charges il vous faudra :
 
 ---
 
-## Système de vente en ligne
+## HighRise - système de vente en ligne de matériel de haute montagne
 
 Le magasin "HighRise" vend du matériel de haute montagne et a besoin d’un système de gestion de vente en ligne.
 
@@ -63,12 +63,12 @@ Un élément de voyage représente une **activité ou réservation associée à 
 
 Un voyageur peut ajouter un élément dans sa plannification, par exemple :
 - choix d'une visite guidée
-- choix de réservation dans un hôtel/AirBnb
+- choix de réservation dans un hôtel/AirBnb/gîte
 - choix de réservation dans un restaurant
 
 Pour chacun des éléments c'est au voyagiste de gérer la réservation.
 
-Par exemple, un voyageur ajoute à sa plannification une nuit dans un hôtel. La réservation ne se fait pas automatiquement, le voyagiste est notifié et ensuite il effectue la réservation.
+Par exemple, un voyageur ajoute à sa plannification une nuit dans un hôtel. La réservation ne se fait pas automatiquement, **le voyagiste est notifié et ensuite il effectue la réservation.**
 
 Les éléments de voyage sont ajoutés par le voyagiste.
 
@@ -100,7 +100,7 @@ Par exemple un programme nommé "Mont-de-Marsan en 2 jours" avec un ensemble d'a
   - ... 
 ```
 
-Un voyageur peut déccider de baser sa plannification sur un parcours pré-établi et le modifier.
+Un voyageur peut déccider de baser sa plannification sur un programme pré-établi et le modifier à sa guise.
 
 ### Proposition d'activité par un guide
 

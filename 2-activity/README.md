@@ -32,13 +32,14 @@ Construire un diagramme d'activités qui décrit le processus de traitement des 
 
 Ci-dessous une description textuelle : 
 Un internaute fait une demande de crédit en ligne, en renseignant son nom, prénom, coordonnées postales, téléphone, adresse email, revenus mensuels, montant et durée du crédit demandé.
+
 Ces demandes sont étudiées sous 24 heures par le service clientèle de l'organisme.
 
 A la suite de cette étude, le service clientèle indique sa décision quant à la demande : accord de principe, refus, étude complémentaire nécessaire. 
 
 Si une étude complémentaire est nécessaire, la demande est transmise au service de gestion des risques, qui, après étude du dossier, renvoie au service clientèle un accord de principe ou un refus. L'étude du dossier peut nécessiter des compléments d'informations de la part du client. Celui-ci est alors contacté par mail et répond au mail pour fournir les compléments d'informations demandés. 
 
-Tout refus fait l'objet d'une notification au client. 
+Tout refus fait l'objet d'une notification par email ou téléphone au client. 
 
 En cas d'accord de principe, le client est averti et reçoit les conditions commerciales relatives au crédit demandé.
 
